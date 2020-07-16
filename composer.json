@@ -1,5 +1,5 @@
 {
-    "name": "pvtl/voyager-page-blocks",
+    "name": "mp2it/voyager-page-blocks",
     "description": "Ahoy! - A package to implement page blocks into Voyager",
     "keywords": [
         "laravel",
@@ -12,9 +12,8 @@
     "type": "library",
     "authors": [
         {
-            "name": "Pivotal Agency",
-            "homepage": "http://pivotalagency.com.au",
-            "email": "tech@pivotalagency.com.au"
+            "name": "Ajay joshi",            
+            "email": "ajayjoshi.mtr@gmail.com"
         }
     ],
     "require": {
